@@ -1,0 +1,11 @@
+# LTspice generated files
+*.raw
+*.op.raw
+*.net
+*.log
+*.tmp
+*.bak
+*.autosave
+
+# macOS
+.DS_Store
